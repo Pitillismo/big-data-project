@@ -5,14 +5,14 @@ import random
 import os
 
 # Crear la carpeta 'data' si no existe
-if not os.path.exists('data'):
-    os.makedirs('data')
+if not os.path.exists(''):
+    os.makedirs('')
 
 # 1. Generar datos de ventas (sales.csv)
 num_sales = 1000
 products = [101, 102, 103, 104, 105]
 
-with open('data/sales.csv', 'w', newline='') as csvfile:
+with open('sales.csv', 'w', newline='') as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(['transaction_id', 'product_id', 'quantity', 'price', 'timestamp'])
 
@@ -40,7 +40,7 @@ contents = [
     "Lunch time!"
 ]
 
-with open('data/social_media.json', 'w') as f:
+with open('social_media.json', 'w') as f:
     for i in range(num_posts):
         post = {
             'user_id': random.choice(users),
@@ -55,7 +55,7 @@ with open('data/social_media.json', 'w') as f:
 num_readings = 1000
 sensors = [f'sensor{i}' for i in range(1, 11)]
 
-with open('data/iot_data.csv', 'w', newline='') as csvfile:
+with open('iot_data.csv', 'w', newline='') as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(['sensor_id', 'timestamp', 'temperature', 'humidity'])
 
@@ -82,7 +82,7 @@ messages = [
     'Server restarted'
 ]
 
-with open('data/app_logs.txt', 'w') as f:
+with open('app_logs.txt', 'w') as f:
     for i in range(num_logs):
         log_level = random.choice(log_levels)
         message = random.choice(messages)
