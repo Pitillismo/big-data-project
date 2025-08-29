@@ -52,5 +52,5 @@ logs/
 .DS_Store
 Thumbs.db
 
+# Excluir archivos de IDE (redundante, pero para asegurar)
 .idea
-.gitignore
