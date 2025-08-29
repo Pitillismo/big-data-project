@@ -52,5 +52,5 @@ logs/
 .DS_Store
 Thumbs.db
 
-# Excluir archivos de IDE (redundante, pero para asegurar)
+# Excluir archivos de IDE (redundante, pero para asegurar ya que de otra forma no resultó)
 .idea
