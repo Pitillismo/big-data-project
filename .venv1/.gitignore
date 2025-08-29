@@ -1,6 +1,7 @@
 # Entornos virtuales
 .venv*/
 .venv1/
+.venv1
 venv/
 env/
 
@@ -37,8 +38,9 @@ logs/
 *.log
 
 # Configuración de IDE
-.idea
+.idea/
 .vscode/
+.vscode
 *.swp
 *.swo
 
