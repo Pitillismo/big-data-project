@@ -1,0 +1,100 @@
+[INFO] 2023-01-01 00:00:00 Application started
+[INFO] 2023-01-01 00:00:10 Timeout occurred
+[WARN] 2023-01-01 00:00:20 Connection established
+[ERROR] 2023-01-01 00:00:30 Server restarted
+[INFO] 2023-01-01 00:00:40 Timeout occurred
+[DEBUG] 2023-01-01 00:00:50 Connection established
+[DEBUG] 2023-01-01 00:01:00 Failed to connect to database
+[ERROR] 2023-01-01 00:01:10 Application started
+[ERROR] 2023-01-01 00:01:20 User logged out
+[ERROR] 2023-01-01 00:01:30 Application started
+[WARN] 2023-01-01 00:01:40 Task completed
+[INFO] 2023-01-01 00:01:50 User logged in
+[WARN] 2023-01-01 00:02:00 User logged in
+[WARN] 2023-01-01 00:02:10 User logged out
+[ERROR] 2023-01-01 00:02:20 User logged in
+[INFO] 2023-01-01 00:02:30 Data processed successfully
+[ERROR] 2023-01-01 00:02:40 Invalid input
+[DEBUG] 2023-01-01 00:02:50 Data processed successfully
+[INFO] 2023-01-01 00:03:00 Invalid input
+[INFO] 2023-01-01 00:03:10 Invalid input
+[WARN] 2023-01-01 00:03:20 Connection established
+[ERROR] 2023-01-01 00:03:30 Task completed
+[DEBUG] 2023-01-01 00:03:40 Application started
+[ERROR] 2023-01-01 00:03:50 Connection established
+[WARN] 2023-01-01 00:04:00 Connection established
+[ERROR] 2023-01-01 00:04:10 Server restarted
+[DEBUG] 2023-01-01 00:04:20 Timeout occurred
+[INFO] 2023-01-01 00:04:30 User logged in
+[DEBUG] 2023-01-01 00:04:40 Connection established
+[DEBUG] 2023-01-01 00:04:50 Timeout occurred
+[INFO] 2023-01-01 00:05:00 Task completed
+[ERROR] 2023-01-01 00:05:10 Failed to connect to database
+[DEBUG] 2023-01-01 00:05:20 Application started
+[DEBUG] 2023-01-01 00:05:30 Server restarted
+[DEBUG] 2023-01-01 00:05:40 User logged in
+[WARN] 2023-01-01 00:05:50 Failed to connect to database
+[INFO] 2023-01-01 00:06:00 Server restarted
+[DEBUG] 2023-01-01 00:06:10 User logged out
+[WARN] 2023-01-01 00:06:20 Server restarted
+[INFO] 2023-01-01 00:06:30 Task completed
+[DEBUG] 2023-01-01 00:06:40 Server restarted
+[ERROR] 2023-01-01 00:06:50 Invalid input
+[DEBUG] 2023-01-01 00:07:00 Failed to connect to database
+[INFO] 2023-01-01 00:07:10 Timeout occurred
+[ERROR] 2023-01-01 00:07:20 Data processed successfully
+[DEBUG] 2023-01-01 00:07:30 Connection established
+[DEBUG] 2023-01-01 00:07:40 Server restarted
+[WARN] 2023-01-01 00:07:50 User logged in
+[DEBUG] 2023-01-01 00:08:00 Application started
+[ERROR] 2023-01-01 00:08:10 Server restarted
+[WARN] 2023-01-01 00:08:20 Application started
+[DEBUG] 2023-01-01 00:08:30 User logged out
+[WARN] 2023-01-01 00:08:40 Server restarted
+[DEBUG] 2023-01-01 00:08:50 User logged in
+[INFO] 2023-01-01 00:09:00 Server restarted
+[WARN] 2023-01-01 00:09:10 Task completed
+[WARN] 2023-01-01 00:09:20 User logged in
+[ERROR] 2023-01-01 00:09:30 Server restarted
+[ERROR] 2023-01-01 00:09:40 Timeout occurred
+[WARN] 2023-01-01 00:09:50 Server restarted
+[WARN] 2023-01-01 00:10:00 Connection established
+[INFO] 2023-01-01 00:10:10 User logged in
+[WARN] 2023-01-01 00:10:20 User logged out
+[DEBUG] 2023-01-01 00:10:30 Timeout occurred
+[DEBUG] 2023-01-01 00:10:40 Application started
+[ERROR] 2023-01-01 00:10:50 Timeout occurred
+[DEBUG] 2023-01-01 00:11:00 User logged out
+[ERROR] 2023-01-01 00:11:10 User logged in
+[WARN] 2023-01-01 00:11:20 Timeout occurred
+[ERROR] 2023-01-01 00:11:30 Task completed
+[WARN] 2023-01-01 00:11:40 Connection established
+[WARN] 2023-01-01 00:11:50 User logged out
+[ERROR] 2023-01-01 00:12:00 Connection established
+[DEBUG] 2023-01-01 00:12:10 Application started
+[WARN] 2023-01-01 00:12:20 User logged out
+[DEBUG] 2023-01-01 00:12:30 Failed to connect to database
+[DEBUG] 2023-01-01 00:12:40 Server restarted
+[WARN] 2023-01-01 00:12:50 Task completed
+[INFO] 2023-01-01 00:13:00 Data processed successfully
+[DEBUG] 2023-01-01 00:13:10 Failed to connect to database
+[WARN] 2023-01-01 00:13:20 Connection established
+[INFO] 2023-01-01 00:13:30 User logged in
+[WARN] 2023-01-01 00:13:40 Application started
+[DEBUG] 2023-01-01 00:13:50 Application started
+[DEBUG] 2023-01-01 00:14:00 Application started
+[DEBUG] 2023-01-01 00:14:10 Task completed
+[ERROR] 2023-01-01 00:14:20 Application started
+[INFO] 2023-01-01 00:14:30 Application started
+[INFO] 2023-01-01 00:14:40 Connection established
+[ERROR] 2023-01-01 00:14:50 User logged out
+[DEBUG] 2023-01-01 00:15:00 Server restarted
+[INFO] 2023-01-01 00:15:10 Task completed
+[WARN] 2023-01-01 00:15:20 Connection established
+[INFO] 2023-01-01 00:15:30 Task completed
+[DEBUG] 2023-01-01 00:15:40 User logged out
+[ERROR] 2023-01-01 00:15:50 Data processed successfully
+[INFO] 2023-01-01 00:16:00 User logged in
+[ERROR] 2023-01-01 00:16:10 Server restarted
+[INFO] 2023-01-01 00:16:20 Connection established
+[INFO] 2023-01-01 00:16:30 User logged out
